@@ -1,0 +1,17 @@
+{
+  "name": "25_my_adventure-game",
+  "version": "1.0.0",
+  "description": "this is an amazing CLI based game ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aqsa sahar",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  }
+}
